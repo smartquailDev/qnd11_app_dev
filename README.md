@@ -1,0 +1,2 @@
+# qnd11_app_dev
+QND11:TODO EN ORDEN CLEAN &amp; BUILDING 
