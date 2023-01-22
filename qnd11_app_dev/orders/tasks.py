@@ -1,4 +1,4 @@
-from qnd10_app_dev.celery import app
+from qnd11_app_dev.celery import app
 from django.core.mail import send_mail
 from .models import Order
 
